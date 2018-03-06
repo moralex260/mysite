@@ -1,0 +1,20 @@
+.main{
+ background-image: url(mysite/images/7.jpg);
+ background-attachment: fixed;
+ background-position: center;
+ background-repeat: no-repeat;
+ background-size: cover;
+ max-width: 100%;
+ margin: auto;
+ padding: 0;
+}
+h1 {
+ text-align: center;
+ margin-left: auto;
+ margin-right: auto;
+
+ color: red;
+ margin: inherit;
+ padding: inherit;
+ font-size: 50px
+}
