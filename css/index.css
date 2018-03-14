@@ -1,0 +1,46 @@
+.main {
+ background-image: url(../images/backimg.jpg);
+ background-attachment: fixed;
+ background-position: center;
+ background-repeat: no-repeat;
+ background-size: cover;
+ max-height: 100%;
+ max-width: 100%;
+
+ margin: auto;
+ padding: 0;
+}
+body{
+ background-color: pink
+}
+@font-face {
+ font-family: font1;
+ src: url(../fonts/11610.ttf);
+}
+
+h {
+ text-align: center;
+ margin-right: auto;
+ font-family: font1;
+
+ color: red;
+
+ padding: inherit;
+ font-size: 50px;
+}
+
+h1 {
+ text-align: center;
+
+ color: red;
+}
+
+#carusel {
+ background-color: pink;
+ max-height: 200px;
+}
+
+a {
+ text-decoration: none;
+ font-family: font1;
+}
